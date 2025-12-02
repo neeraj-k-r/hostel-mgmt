@@ -31,7 +31,7 @@ A web-based Hostel Management System to manage student data, room allocation, st
 
 - **Frontend:** HTML, Tailwind CSS, JavaScript 
 - **Backend:** Node.js 
-- **Database:** MySQL  
+- **Database:** MSSQL  
 
 ---
 
@@ -40,6 +40,7 @@ A web-based Hostel Management System to manage student data, room allocation, st
 
 
 ## Screenshots
+
 ![Landing Page](screenshots/landing.png)
 
 ![Dashboard](screenshots/dashboard.png)
