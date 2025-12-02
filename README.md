@@ -40,8 +40,9 @@ A web-based Hostel Management System to manage student data, room allocation, st
 
 
 ## Screenshots
-![Landing Page](""C:\Users\user\Downloads\landing.png")
-![Dashboard]("C:\Users\user\Downloads\dashboard.png")
+![Landing Page](screenshots/landing.png)
+
+![Dashboard](screenshots/dashboard.png)
 
 
 
